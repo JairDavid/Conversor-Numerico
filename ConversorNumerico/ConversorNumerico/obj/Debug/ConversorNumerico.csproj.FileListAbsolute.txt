@@ -1,0 +1,10 @@
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.exe.config
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.exe
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.pdb
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.csprojAssemblyReference.cache
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.Form1.resources
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.Properties.Resources.resources
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.csproj.GenerateResource.cache
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.csproj.CoreCompileInputs.cache
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.exe
+C:\Users\theyiro\Desktop\ConversorNumerico\ConversorNumerico\obj\Debug\ConversorNumerico.pdb
