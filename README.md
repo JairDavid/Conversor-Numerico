@@ -1,5 +1,5 @@
 # Conversor-Numerico
-a simple numeric conversion system (decimal, binary, hexadecimal) with a user interface
+A simple numeric conversion system (decimal, binary, hexadecimal) with a user interface, I made this project like a final work of my high school.
 
 # Pending
 maybe there's some visual bugs
